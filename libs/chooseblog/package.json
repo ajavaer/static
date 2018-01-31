@@ -1,0 +1,26 @@
+{
+  // 这三项让你的文件能正常被索引到
+  // 项目名要与文件夹名一致
+  "name": "chooseblog",
+  "filename": "plugins",
+  "version": "1.0",
+
+  // 其他
+  "description": "ChooseBlog",
+  "homepage": "http://www.chooseblog.com",
+  "keywords": [],
+  "maintainers": [
+    {
+      "name": "Jason Hu",
+      "web": "http://www.chooseblog.com",
+      "mail": "chooseblog@hotmail.com"
+    }
+  ],
+  "repositories": [
+    {
+    
+      "type": "git",
+      "url": "https://github.com/staticfile/static/chooseblog/plugins"
+    }
+  ]
+}
